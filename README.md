@@ -1,6 +1,6 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Agustin+Serra+Rivero+-+QA+Automation+&+Cybersecurity" alt="Typing SVG" />
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=600&height=50&lines=Hi%2C+i'm+Agustin+Serra+Rivero+-+QA+Automation+&+Cybersecurity" alt="Typing SVG" />
+</h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/agustin004)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustín-serra-rivero)
