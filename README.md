@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Agustin+Serra+Rivero+-+QA+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E5CF7&width=700&height=60&lines=Hi%2C+i'm+Agustin+Serra+Rivero+-+QA+Automation+&+Cybersecurity" alt="Typing SVG" />
 </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/agustin004)
@@ -12,7 +12,9 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Currently pursuing a Bachelor's Degree in Computer Science  
+- Currently pursuing a Bachelor's Degree in Computer Science
+- Postgraduate Diploma s. Cybersecurity
+- Certification Fundamentals of Hacking & Defense
 - Taking online courses about CD/CI & DevOps 
 
 #### :muscle: Things I am challenging myself with:
