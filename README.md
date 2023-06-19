@@ -12,7 +12,7 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Currently pursuing a Bachelor's Degree in Computer Science
+- Currently pursuing a Bachelor's Degree in Cybersecurity
 - Postgraduate Diploma s. Cybersecurity
 - Certification Fundamentals of Hacking & Defense
 - Taking online courses about CD/CI & DevOps 
