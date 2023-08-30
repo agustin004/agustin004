@@ -6,13 +6,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustín-serra-rivero)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agustin.serra.rivero@gmail.com)
 
-<p>Welcome to my Github page! I am Agustín I work as <strong>Cybersecurity & QA Automation</strong>.  
+<p>Welcome to my Github page! I am Agustín I work as <strong>QA Automation</strong>.  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Currently pursuing a Bachelor's Degree in Cybersecurity
+- Currently pursuing a Bachelor's Degree in Computer Science
 - Postgraduate Diploma s. Cybersecurity
 - Certification Fundamentals of Hacking & Defense
 - Taking online courses about CD/CI & DevOps 
