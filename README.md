@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agustín-serra-rivero)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agustin.serra.rivero@gmail.com)
 
-<p>Welcome to my Github page! I am Agustín I work as <strong>QA Automation</strong>.  
+<p>Welcome to my Github page! I am Agustín I work as <strong>Ssr Technology Analyst</strong>.  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
