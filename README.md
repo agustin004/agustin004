@@ -13,15 +13,16 @@
 
 #### 🌱 Things I am currently working on: 
 - Currently pursuing a Bachelor's Degree in Computer Science
+- Taking online courses about Data Science, BigData and CD/CI  
 - Postgraduate Diploma s. Cybersecurity
 - Certification Fundamentals of Hacking & Defense
-- Taking online courses about CD/CI & DevOps 
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Learning Lenguages (SPN - ENG - PORT - FRA)
+- Coding at least 2 hours a day
 - Exercising 5/6 days a week
-- Improving my CV with some education apart from university
+- Improving my CV with some education programs apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
